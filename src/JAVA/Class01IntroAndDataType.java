@@ -16,6 +16,7 @@ public class Class01IntroAndDataType {
 		String str = "ali";
 		System.out.println(lg);
 		System.out.println(str);
+		System.out.println(lg);
 	}
 
 }
